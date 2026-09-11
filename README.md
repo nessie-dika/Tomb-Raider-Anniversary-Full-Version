@@ -240,3 +240,6 @@ This repository serves as the official landing page for Tomb Raider Anniversary.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Tomb Raider Anniversary today!**
+
+---
+**Last updated:** 2026-09-11 09:17:32 UTC
