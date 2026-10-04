@@ -242,4 +242,4 @@ This repository serves as the official landing page for Tomb Raider Anniversary.
 **Get the most recent version of Tomb Raider Anniversary today!**
 
 ---
-**Last updated:** 2026-10-04 15:03:31 UTC
+**Last updated:** 2026-10-04 18:54:49 UTC
